@@ -1,0 +1,10 @@
+Ivanov 25000
+Petrov 10000
+Sidorova 40000
+Volkov 15000
+Zaicev 15500
+Palkin 19000
+Petina 24300
+Vasin 22400
+Kozlov 17430
+Petrova 22700
